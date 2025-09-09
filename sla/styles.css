@@ -1,0 +1,23 @@
+* {
+background: red;
+
+}
+h1 {
+    color: red;
+    background-color: black;
+  }
+p {
+color: blue;
+font-size: 20px;
+
+}
+button {
+background: green;
+border-color: darkgreen;
+}
+.mel{
+color: yellowgreen;
+font-size: 80px;
+
+
+}
